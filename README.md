@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sriram Dayal!
 🎯 AI Engineer| ⚙️ Machine learning| 🧠 Computer Vision & NLP 
 
-- 🔭 I’m working on: OpenCV Homography Challenge
+- 🔭 I’m working on: OpenCV 
 - 🌱 Currently learning: Deep Learning & Model Optimization
 - 💬 Ask me about: Computer Vision, ML, Python, or Automation
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramachandradayalk/) | [GitHub](https://github.com/Sriramdayal)
@@ -15,3 +15,5 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
