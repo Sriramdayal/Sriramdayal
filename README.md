@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sriram Dayal!
-🎯 AI Engineer | 🧠 Computer Vision & NLP | ⚙️ Machine Learning
+🎯 AI Engineer| ⚙️ Machine learning| 🧠 Computer Vision & NLP 
 
 - 🔭 I’m working on: OpenCV Homography Challenge
 - 🌱 Currently learning: Deep Learning & Model Optimization
