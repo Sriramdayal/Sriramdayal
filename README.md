@@ -4,7 +4,7 @@
 - 🔭 I’m working on: OpenCV 
 - 🌱 Currently learning: Deep Learning & Model Optimization
 - 💬 Ask me about: Computer Vision, ML, Python, or Automation
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramachandradayalk/) | [GitHub](https://github.com/Sriramdayal)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramachandradayalk/) | [my_portfolio](https://ramachandradayalk.netlify.app/)
 
 ## 🚀 Projects
 - 🧩 [OpenCV Homography Algorithm](https://github.com/Sriramdayal/Opencv-homography-algo)
