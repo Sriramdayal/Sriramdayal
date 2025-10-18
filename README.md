@@ -15,7 +15,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-FF6F00?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
