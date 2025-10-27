@@ -7,7 +7,7 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramachandradayalk/) | [my_portfolio](https://ramachandradayalk.netlify.app/)
 
 ## 🚀 Projects
-- 🧩 [OpenCV Homography Algorithm](https://github.com/Sriramdayal/Opencv-homography-algo)
+- 🧩 [SEAL-BDH Hybrid Architecture: Adaptive Learning Rate Simulation](https://github.com/Sriramdayal/Hybrid_BDH-SEAL)
 - 🤖 [Re_identification](https://github.com/Sriramdayal/Re_identification)
 
 ## 🛠️ Tech Stack
