@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sriram Dayal!
 🎯 AI Engineer| ⚙️ Machine learning| 🧠 Computer Vision & NLP 
 
-- 🔭 I’m working on: OpenCV 
+- 🔭 I’m working on: LLM fine-tuning
 - 🌱 Currently learning: Deep Learning & Model Optimization
 - 💬 Ask me about: Computer Vision,NLP, ML, Python, or Automation
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramachandradayalk/) | [my_portfolio](https://ramachandradayalk.netlify.app/)
