@@ -9,6 +9,8 @@
 ## 🚀 Projects
 - 🧩 [SEAL-BDH Hybrid Architecture: Adaptive Learning Rate Simulation](https://github.com/Sriramdayal/Hybrid_BDH-SEAL)
 - 🤖 [Re_identification](https://github.com/Sriramdayal/Re_identification)
+- 🧠 [Unsloth LLM Fine-tuning v1](https://github.com/Sriramdayal/Unsloth-LLM-finetuningv1)
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
