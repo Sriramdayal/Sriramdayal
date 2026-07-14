@@ -60,17 +60,6 @@ I'm an **AI/ML Engineer** passionate about pushing the boundaries of language mo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sriramdayal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramdayal&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to interesting AI/ML collaborations, research discussions, or just geeking out over new model architectures.
